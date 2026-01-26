@@ -18,6 +18,8 @@ This project will be building a chatbot that will translate words or sentences i
 - DynamoDB: DynamoDB is for storing and managing bucket list items (databases)
 - S3 Bucket: for storage of user images (storage)
 
+- **NOTES: make sure to be using the LTS version of node.js as anything else will break it causing several errors and prevent you from scaffolding properly; And make sure to have the bucketlissapp you will create later in it's own folder for GitHub otherwise it will not work**
+
 ## Set up Amplify Frontend
 
 AWS Amplify provides a Git-based CI/CD workflow that allows you to build, deploy, and host single-page web applications or static sites with serverless backends. It automatically detects the buuild settings for both the frontend and any serverless backend resources when connected to a Git repository. WIth each code commit, Amplify redeploys updates automatically. These steps will help me create a React application, push it to GitHub, and connect it to AWS Amplify for deployment.
