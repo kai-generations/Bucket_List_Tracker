@@ -460,3 +460,11 @@ git push origin main
 
 - **Step 1:** In the Amplify console, in the left-hand navigation for the bucketlistapp, choose App settings > General settings
 - **Step 2:** Under General settings section, choose Delete app
+
+## Final Thoughts
+
+This was probably the coolest project and the most annoying project I have done so far. I got to see how AWS Amplify is used with GitHub, React, and I learned a bit about npm. Scaffolding or rather npm and node.js are both aggravating and helpful tools. The slightest cache error or wrong npm/node.js versioning is enough to break the app and cause errors that prevent me from going forward.  
+
+There were so many errors that I ran in to especially with the node.js version being too new, and npm cache retaining old data and bad files even though I ran the clear cache command. Overall, I feel like I gota a lot of experience here with these tools and I think I am better prepped to deal with these tools issues in the future if needed.  
+
+This could be a fun project to come back to and see what else I can do with it, but for now I will only look at turining it into Terraform code. I think this will be a headache, but am hopefuil that I will learn even more about Terraform. Here is hoping lol.
