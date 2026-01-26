@@ -455,3 +455,8 @@ git push origin main
 - **Step 2:** Sign in to the AWS Management Console, and open AWS Amplify Console
 - **Step 3:** AWS Amplify will automatically build your source code and deploy your app at a URL like https://...amplifyapp.com. On every git push, Amplify will update your deployment.
 - **Step 4:** Click on the "Visit the deployed URL" button to see your bucket list tracker live
+
+## Conclusion and Clean-up
+
+- **Step 1:** In the Amplify console, in the left-hand navigation for the bucketlistapp, choose App settings > General settings
+- **Step 2:** Under General settings section, choose Delete app
